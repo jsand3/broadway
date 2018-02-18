@@ -1,0 +1,26 @@
+body {
+  font-family: "Verdana", Sans-serif;
+  color: white;
+  text-align: center;
+  background-color: black; }
+
+p {
+  font-size: 21px;
+  color: grey; }
+
+h1 {
+  font-size: 50px;
+  /* default font-weight is normal
+    so no font-weight styling needed.
+   */ }
+
+h2 {
+  font-size: 42px;
+  font-weight: 300; }
+
+a {
+  font-size: 16px;
+  color: aquamarine; }
+
+.text-align-right {
+  text-align: right; }
